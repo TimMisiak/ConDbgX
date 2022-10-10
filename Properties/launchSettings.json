@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ReactiveExample": {
+      "commandName": "Project",
+      "commandLineArgs": "notepad.exe foo.txt"
+    }
+  }
+}
